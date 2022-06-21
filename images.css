@@ -1,0 +1,11 @@
+figure{
+    width: 10%;
+}
+img{
+    width: 100%;
+}
+figcaption{
+    text-align: center;
+    font-size: 1.6vmin;
+    margin-top: 0.5vmin;
+}
